@@ -1,3 +1,3 @@
 # aulagit
 
-#Descrição do projeto
+#Descrição do projeto visto hoje
